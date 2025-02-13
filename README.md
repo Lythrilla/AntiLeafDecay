@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/638de8ad-49f8-476e-b024-5ea0aff2ee8e)
+
 # AntiLeafDecay - A Minecraft plugin to prevent leaf decay 🌟
 
 ## I. Plugin Introduction
